@@ -1,0 +1,110 @@
+(lp0
+(dp1
+S'dictVal'
+p2
+S'mexico'
+p3
+sS'synsets'
+p4
+(lp5
+Vunited mexican states
+p6
+aVmexico
+p7
+asa(dp8
+g2
+S'japan'
+p9
+sg4
+(lp10
+Vjapan
+p11
+aVnippon
+p12
+aVnihon
+p13
+aVjapanese archipelago
+p14
+aVjapanese islands
+p15
+asa(dp16
+g2
+S'uk'
+p17
+sg4
+(lp18
+Vu.k.
+p19
+aVunited kingdom
+p20
+aVbritain
+p21
+aVgreat britain
+p22
+aVuk
+p23
+aVunited kingdom of great britain and northern ireland
+p24
+asa(dp25
+g2
+S'china'
+p26
+sg4
+(lp27
+Vcommunist china
+p28
+aVrepublic of china
+p29
+aVnationalist china
+p30
+aVprc
+p31
+aVcathay
+p32
+aVpeople's republic of china
+p33
+aVchina
+p34
+aVchinaware
+p35
+aVred china
+p36
+aVtaiwan
+p37
+aVmainland china
+p38
+asa(dp39
+g2
+S'india'
+p40
+sg4
+(lp41
+Vbharat
+p42
+aVrepublic of india
+p43
+aVindia
+p44
+asa(dp45
+g2
+S'indonesia'
+p46
+sg4
+(lp47
+Vrepublic of indonesia
+p48
+aVindonesia
+p49
+aVdutch east indies
+p50
+asa(dp51
+g2
+S'papua_new_guinea'
+p52
+sg4
+(lp53
+Vindependent state of papua new guinea
+p54
+aVpapua new guinea
+p55
+asa.
